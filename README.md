@@ -1,6 +1,4 @@
-# Python-Challenge-Juan-shop
-# challenge 
-# ¡desafío!
+#<h1 align="center"> Su título aquí </h1>
 
 Durante este desafío, ayudarè al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarè los datos de ventas, rendimiento y reseñas de las 4 tiendas que posee el Sr. Juan. 
 
