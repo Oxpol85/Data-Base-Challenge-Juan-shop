@@ -1,4 +1,5 @@
-#<h1 align="center">!DESAFIO!</h1>
+#<h1 align="center">ANALISISI FINANCIERO</h1>
+#<h1 align="center">SHOP</h1>
 
 Durante este desafío, ayudarè al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarè los datos de ventas, rendimiento y reseñas de las 4 tiendas que posee el Sr. Juan. 
 
